@@ -1,0 +1,20 @@
+body {
+	background-color: lightblue;
+	}
+h1 {
+	color: white;
+	}
+span#para1 {
+	font-family: arial, verdana, serif;
+	font-size: 14px;
+	color: red;
+	}
+span#para2 {
+	font-family: courier, courier-new, serif;
+	font-size: 16px;
+	color: blue;
+	}
+img {
+	height: 50px;
+	width: 50px;
+	}
